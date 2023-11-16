@@ -34,7 +34,6 @@ Say what the step will be
 
 ```
 composer update && php artisan key-generate
-...
 php artisan serve
 ```
 
